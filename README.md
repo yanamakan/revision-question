@@ -1,0 +1,2 @@
+I used elements to structure the content. This is important because it provides a clear meaning to the content, which helps users understand the website better, improving accessibility.
+I included a "Skip to content" link at the beginning of the navigation on each page. This allows keyboard users to quickly jump over the navigation menu to the main content.
